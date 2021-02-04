@@ -1,2 +1,2 @@
 # instagramHomePage
-Instagram Home Page foi desenvolvi em um desafio do bootcamp HTML Web Developer da Digital Inovation One.
+Instagram Home Page foi desenvolvi em um desafio do bootcamp da Digital Inovatio One
